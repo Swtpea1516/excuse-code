@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  text-align: center;
+  padding-top: 0;
+  text-decoration: solid;
+}
+p {
+  text-align: center;
+  padding-top: 0;
+  text-decoration: solid;
+}

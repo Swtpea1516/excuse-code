@@ -21,6 +21,6 @@ window.onload = function() {
   let actionR = action[Math.floor(Math.random() * action.length)];
   let whatR = what[Math.floor(Math.random() * what.length)];
   let whenR = when[Math.floor(Math.random() * when.length)];
-  document.getElementById("exuse").innerHTML =
+  document.getElementById("excuse").innerHTML =
     whoR + " " + actionR + " " + whatR + " " + whenR;
 };
