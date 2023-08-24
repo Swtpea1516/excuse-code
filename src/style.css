@@ -4,8 +4,11 @@ h1 {
   padding-top: 0;
   text-decoration: solid;
 }
-p {
+h2 {
   text-align: center;
   padding-top: 0;
   text-decoration: solid;
+}
+body {
+  background-color: rgb(61, 85, 175);
 }
