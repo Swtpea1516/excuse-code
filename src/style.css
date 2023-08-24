@@ -6,9 +6,17 @@ h1 {
 }
 h2 {
   text-align: center;
-  padding-top: 0;
+  padding-top: 50px;
   text-decoration: solid;
 }
 body {
   background-color: rgb(61, 85, 175);
+}
+.centered-image {
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 500px;
+  width: 560px;
 }
